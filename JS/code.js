@@ -25,8 +25,12 @@
  paragraphs[1].innerHTML = 'I have discovered that I can accomplish anything I put my mind to.';
  
  // So far you have hints, however the hints have lessened.
- // 5.1. Attach the first input to a variable
+ // 5.1. Attach the first input to a variable  
+
+ let x = document.querySelector('[datafristMultiplier]')
+
  // 5.2. Attach the second input to a variable
+ let 
  // 5.3. Attach the FIRST button to a variable(going to add an eventListener to button)
  // 5.4. Attach the FIRST span element to a variable(To display the information to)
  //         P.S. for the next step make use of console.log() to keep track of where data is going  
